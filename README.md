@@ -7,4 +7,3 @@ Using stereo for estimator initialization.
 
 Add stereo tightly-coupled visual-inertial optimization and stereo global pose graph optimization.
 
-
